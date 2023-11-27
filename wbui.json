@@ -23,7 +23,7 @@
                 }
             },
             {
-                "tab1": {
+                "tab2": {
                     "layout": 1,
                     "buttontext": "Rules",
                     "title1": "<TextStyle.White>Rules</>",
