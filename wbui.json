@@ -16,17 +16,17 @@
             {
                 "tab1": {
                     "layout": 1,
-                    "buttontext": "<RichColor Color=\"0, 1, 0, 1\">Welcome</>",
+                    "buttontext": "<TextStyle.Green>Welcome</>",
                     "title1": "<RichColor Color=\"0, 1, 0, 1\">Welcome to EVERLANDS</>",
                     "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
                     "imageurl": "https://i.imgur.com/Z9cthLW.png"
                 }
             },
             {
-                "tab2": {
+                "tab1": {
                     "layout": 1,
-                    "buttontext": "<RichColor Color=\"0,0,1,1\">Rules</>",
-                    "title1": "<RichColor Color=\"0,0,1,1\">Rules</>",
+                    "buttontext": "Rules",
+                    "title1": "<TextStyle.White>Rules</>",
                     "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
                     "imageurl": "https://i.imgur.com/Z9cthLW.png"
                 }
