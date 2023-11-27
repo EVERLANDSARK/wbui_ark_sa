@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "Welcome",
                     "title1": "Welcome to EVERLANDS",
-                    "text1": "Welcome to the EVERLANDS server. On this panel you will find all the information about the server.\n\nServer configuration:\n\n- Fully PVE server.\n- Maximum level for wild dino: 300\n- Loot drop/fish/cave completely rebuilt and boosted.\n- Weight boost for players and dinosaurs.\n- No fall damage.\n- Tamed dino damage boosted.\n- Items stacked to 10 million.\n- Engrams unlock automatically as you level up.\n- Shop available with items/dino/kit, see Shop tab.\n\nServer rates:\n\n- Harvest: x100\n- Tame: x5\n- Experience: x5\n- Breeding: x10\n- Dino count: x2\n\n\nDon't hesitate to join the discord by clicking on the button below.",
+                    "text1": "Welcome to the EVERLANDS server. On this panel you will find all the information about the server.\n\nServer configuration:\n\n- Fully PVE server.\n- Maximum level for wild dino: 300\n- Loot drop/fish/cave completely rebuilt and boosted.\n- Weight boost for players and dinosaurs.\n- No fall damage.\n- Tamed dino damage boosted.\n- Items stacked to 10 million.\n- Engrams unlock automatically as you level up.\n- Shop available with items/dino/kit, see Shop tab.\n\nServer rates:\n\n- Harvest: x100\n- Tame: x5\n- Experience: x50\n- Breeding: x10\n- Dino count: x2\n\n\nDon't hesitate to join the discord by clicking on the button below.",
                     "imageurl": "https://i.imgur.com/Z9cthLW.png"
                 }
             },
