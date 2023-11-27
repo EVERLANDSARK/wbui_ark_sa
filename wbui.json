@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "<TextStyle.Green>Welcome</>",
                     "title1": "Welcome to EVERLANDS",
-                    "text1": "Welcome to the EVERLANDS server. On this panel you will find all the information about the server.\n\nIf you are new to the server you have a starter kit:\n- /kit starter",
+                    "text1": "Welcome to the EVERLANDS server. On this panel you will find all the information about the server.\n\nIf you are new to the server you have a starter kit:\n- \\/kit starter",
                     "imageurl": "https://i.imgur.com/Z9cthLW.png"
                 }
             },
