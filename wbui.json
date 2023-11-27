@@ -16,9 +16,9 @@
             {
                 "tab1": {
                     "layout": 1,
-                    "buttontext": "<TextStyle.Green>Welcome</>",
+                    "buttontext": "Welcome",
                     "title1": "Welcome to EVERLANDS",
-                    "text1": "Welcome to the EVERLANDS server. On this panel you will find all the information about the server.\n\nIf you are new to the server you have a starter kit:\n- \\/kit starter\n\nSERVER RATES\n-Harvest: x100\n-EXP: x5",
+                    "text1": "Welcome to the EVERLANDS server. On this panel you will find all the information about the server.\n\nServer configuration:\n\n- Fully PVE server.\n- Maximum level for wild dino: 300\n- Loot drop/fish/cave completely rebuilt and boosted.\n- Weight boost for players and dinosaurs.\n- No fall damage.\n- Tamed dino damage boosted.\n- Items stacked to 10 million.\n- Engrams unlock automatically as you level up.\n- Shop available with items/dino/kit, see Shop tab.\n\nServer rates:\n\n- Harvest: x100\n- Tame: x5\n- Experience: x5\n- Breeding: x10\n- Dino count: x2\n\n\nDon't hesitate to join the discord by clicking on the button below.",
                     "imageurl": "https://i.imgur.com/Z9cthLW.png"
                 }
             },
@@ -27,7 +27,18 @@
                     "layout": 1,
                     "buttontext": "Rules",
                     "title1": "Rules",
-                    "text1": "",
+                    "text1": "Here are a few rules that must be respected on the server for everything to go smoothly:\n\n- Be respectful of other players.\n- Avoid building on spawn sites.\n- Avoid building too close to another base.\n- Avoid gigantic bases 30x30 maximum.\n- Cheating/glitch/mesh/grief are completely forbidden.\n- Structure spam is forbidden.\n- Clean up your structures on the map if you make a trap of tame or others.\n\nIf you have any problem, don't hesitate to join the discord and open a ticket.",
+                    "imageurl": "https://i.imgur.com/Z9cthLW.png"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 2,
+                    "buttontext": "Shop And VIP",
+                    "title1": "Shop",
+                    "text1": "The shop available on the server is a points-based shop that you earn every 10 minutes.\n\nDefault points: 50 every 10 minutes.\n\nYou can multiply your points with the different ranks on the server, which can be bought with real money. More information on the right or on the discord.\n\nIn this shop you can buy many things (dino, items, resources):\n\nHere are some orders you can use:\n\n/points - See how many points you have.\n/kit - See the kits you own.\n/shop - See what you can buy in the shop with your points.\n/buy *id* - To buy an item in the shop with the corresponding id.",
+                    "title2": "VIP",
+                    "text2": "under development",
                     "imageurl": "https://i.imgur.com/Z9cthLW.png"
                 }
             }
